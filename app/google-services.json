@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574139250562",
+    "project_id": "omnibot101-a7725",
+    "storage_bucket": "omnibot101-a7725.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574139250562:android:1edf8826cf34275ef3819b",
+        "android_client_info": {
+          "package_name": "com.kwamboka.omnibot101"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpdzgLP67Z6G3TRI7J-0CxVHHy3JXwZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
